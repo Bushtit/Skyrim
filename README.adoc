@@ -1,0 +1,10 @@
+= Skyrim Scripts
+
+== How to use?
+
+1. Copy these `txt` files to the game folder.
+2. Launch the game.
+3. Press `~` button.
+4. Click a character.
+5. Enter `bat SCRIPT_NAME`.
+  * For example, `bat player` for `player.txt`.

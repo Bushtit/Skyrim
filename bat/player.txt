@@ -1,0 +1,7 @@
+forceav carryweight 999999
+modav health 100000
+modav magicka 100000
+modav stamina 100000
+additem f 999999
+setgs fJumpHeightMin 640
+setav speedmult 150
