@@ -5,3 +5,4 @@ modav stamina 100000
 additem f 999999
 setgs fJumpHeightMin 640
 setav speedmult 150
+setav enchanting 1000
