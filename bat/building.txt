@@ -1,0 +1,8 @@
+pkayer.additem 0300306C 1000
+pkayer.additem 03003043 1000
+pkayer.additem 03005A68 1000
+pkayer.additem 03005A69 1000
+pkayer.additem 0300303F 1000
+pkayer.additem 0005ACE4 1000
+pkayer.additem 0005ACE5 1000
+pkayer.additem 0005AD93 1000
