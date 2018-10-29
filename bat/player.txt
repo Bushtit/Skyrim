@@ -1,8 +1,28 @@
-forceav carryweight 99990000
-modav health 100000
-modav magicka 100000
-modav stamina 100000
-additem f 999999
-setgs fJumpHeightMin 640
-setav speedmult 150
-setav enchanting 1000
+player.forceav carryweight 99990000
+player.modav health 100000
+player.modav magicka 100000
+player.modav stamina 100000
+player.additem f 999999
+player.setav speedmult 200
+player.setlevel 255
+set timescale to 1
+setgs fJumpHeightMin 25000
+player.modav DragonSouls 99999
+player.modav ShoutRecoveryMult 0
+player.modav OneHanded 5000
+player.modav TwoHanded 5000
+player.modav Alteration 5000
+player.modav Conjuration 5000
+player.modav Destruction 5000
+player.modav Enchanting 5000
+player.modav Illusion 5000
+player.modav Restoration 5000
+player.modav Archery 5000
+player.modav HeavyArmor 5000
+player.modav Smithing 5000
+player.modav Alchemy 5000
+player.modav LightArmor 5000
+player.modav Lockpicking 5000
+player.modav Pickpocket 5000
+player.modav Sneak 5000
+player.modav Speech 5000
