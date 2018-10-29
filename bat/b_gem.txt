@@ -1,1 +1,1 @@
-player.additem 2e4fb 9999
+additem 0002E4FF 999
