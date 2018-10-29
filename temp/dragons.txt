@@ -1,9 +1,0 @@
-Alduin: 8E4F1
-Mirmulnir: 1CA05
-Nahagliiv: FE431
-Odahviing: F6850
-Paarthurnax: 3C57C
-Viinturuth: FE432
-Vuljotnaak: FE430
-Vulthuryol: 7EAC7
-Sahloknir: (FF00188B / 00032D9B)

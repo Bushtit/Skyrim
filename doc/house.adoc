@@ -1,0 +1,31 @@
+= 房屋代码
+
+[%header, cols="2"]
+|===
+|名称
+|BaseID
+
+|莫索尔 Windstad
+|BYOHHouse2Exterior
+
+|晨星 Heljarchen Hall
+|BYOHHouse3Exterior
+
+|佛克瑞斯 Lakeview Manor
+|BYOHHouse1Exterior
+
+|风宅
+|WhiterunBreezehome
+
+|傲矛
+|SolitudeProudspireManor
+
+|裂谷 甜蜜湾
+|RiftenHoneyside
+
+|马卡斯林德尔
+|MarkarthVlindrelHall
+
+|风盔城的凶宅霜斋
+|WindhelmHjerim
+|===
