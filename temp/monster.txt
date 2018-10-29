@@ -1,0 +1,123 @@
+player.placeatme FF000ACA   骷髅
+player.placeatme 0010DDEE   魔人大君
+player.placeatme 00023AA7   冰霜元素
+player.placeatme 000f811c   远古龙A
+player.placeatme 000f811d   远古龙B
+player.placeatme 000f811e   远古龙C
+player.placeatme 000FEA9B   上古龙
+player.placeatme e8710      普通龙
+player.placeatme f8117      血龙
+player.placeatme 45BE0      帝国弓箭手
+player.placeatme 46794      帝国士兵
+player.placeatme 4622a      帝国巫师
+player.placeatme 559e0      帝国将军
+player.placeatme 00000007   自己
+player.placeatme 2025a      龙祭祀
+player.placeatme 9192c      骨龙
+player.placeatme 45be3      风暴斗篷弓手
+player.placeatme 467bb      风暴斗篷士兵
+player.placeatme 4622b      风暴斗篷法师
+player.placeatme 559df      风暴斗篷将军
+player.placeatme 000728AD   梭默巫师
+player.placeatme 000728AC   梭默士兵
+player.placeatme FF000B3A   裂谷城卫兵狱卒
+player.placeatme FF000ACA   强盗逃犯
+player.placeatme EBC2E      雪巨魔
+player.placeatme F077A      巨魔
+player.placeatme 00039d64   强盗掠夺者BOSS
+player.placeatme 1bcd8      强盗A
+player.placeatme 32860      强盗B
+player.placeatme 328d4      强盗C
+player.placeatme 328d5      强盗D
+player.placeatme 328d6      强盗E
+player.placeatme 328d7      强盗F
+player.placeatme 328db      强盗G
+player.placeatme 328db      强盗K
+player.placeatme 328dc      强盗L
+player.placeatme 328dc      强盗M
+古龙3种
+000FEA9A 000FEA9B 000FEA9C
+龙 0001CA05
+龙 000F811F
+龙 000FEA9B
+龙 00101E6C
+龙 00101E6D
+龙 00101E6E
+龙 0010FD64
+龙 0010FEEC
+龙 0010FEED
+龙 0010FEEE
+幽灵法师(很强) 0010FC15
+长毛象 0001C060(非主动
+长毛象 00023AB4(主动
+长毛象 000B6234(主动
+长毛象 000DD641(主动
+长毛象 00101580(主动
+长毛象 00101581(主动
+幽灵长毛象 000E7EAF(主动 不移动
+骷髅战士 FF000BA6(非主动
+骷髅战士 FF000BA7(非主动
+骷髅战士 FF000BA9(非主动
+骷髅战士 FF000BAC(主动
+骷髅战士 FF000C46(非主动
+骷髅战士 FF000C61(非主动
+骷髅战士 FF000C68(非主动
+骷髅战士 FF000C6E(非主动
+骷髅战士 FF000C6F(非主动
+骷髅战士(王) FF000C96 非主动
+骷髅战法 FF000C71(主动
+骷髅战法 FF000BA9(主动
+骷髅战法 FF000CB5(主动
+骷髅战法 FF000CBD(主动
+骷髅战法 FF000CC2(主动
+骷髅战法 FF000CC6(主动
+骷髅战法 FF000CC8(主动
+骷髅战法 FF000CD9(主动
+骷髅战法 FF000CDA(主动
+骷髅战法 FF000CDB(主动
+骷髅战法 FF000CDD(主动
+骷髅战法 FF000CDE(主动
+巨人 000C0BE5 主动
+巨人 000C97D1 主动
+巨人 FF000B69 主动
+巨人 FF000BAA 主动
+巨人 FF000C81 主动
+蜘蛛 000999A5 - FF00080F
+强盗 00039CF4(4-9都是强盗 其中三个是女)
+警卫 000F62EF(男)
+警卫 000F62F0(女)
+警卫000A27CC 晚上拿火把 不移动
+警卫000A4A3B 不拿火把 移动
+警卫00101996 晚上拿火把 移动
+警卫00101997 不拿火把 不移动
+教你怎查出代码 Help(空格)怪物名字(空格)0 (最后是0)
+开控制台后 看怪的名字
+然后输入Help(空格)怪物名字(空格)0<---输入0就好
+接著就会跑出一长串代码 你就可以开始记了
+然后试验 不一定他出来的代码就是可以召的
+一般[NPC]这个是常用代码
+如果叫不出来 再试其他的代码
+好像也有分主动被动的 再自己测试吧
+龙(有新增)
+龙 FF000860
+龙 0001CA05
+龙 000F811F
+龙 000FEA9B
+龙 00101E6C
+龙 00101E6D
+龙 00101E6E
+龙 0010FD64
+龙 0010FEEC
+龙 0010FEED
+龙 0010FEEE
+狼人(很凶@@)
+狼人 000A092F
+狼人 000A1972
+狼人 000A1973
+狼人 000A1974
+狼人 000A1975
+狼人 000A1976
+狼人 0010F509
+狼人 FF000967
+狼人 FF000A57
+狼人 FF000C81
