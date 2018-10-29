@@ -7,5 +7,5 @@ modav health 100000
 modav magicka 100000
 modav stamina 100000
 additem 00000000f 29000
-modav confidence 4
+setav confidence 4
 sifh 1

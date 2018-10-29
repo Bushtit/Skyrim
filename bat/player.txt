@@ -1,4 +1,4 @@
-forceav carryweight 999999
+forceav carryweight 99990000
 modav health 100000
 modav magicka 100000
 modav stamina 100000
