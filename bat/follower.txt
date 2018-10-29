@@ -6,6 +6,6 @@ modav carryweight 999999
 modav health 100000
 modav magicka 100000
 modav stamina 100000
-additem f 29000
+additem 00000000f 29000
 modav confidence 4
 sifh 1
