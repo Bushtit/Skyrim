@@ -3,6 +3,7 @@ player.modav health 100000
 player.modav magicka 100000
 player.modav stamina 100000
 player.additem f 999999
+player.additem a 999999
 player.setav speedmult 200
 player.setlevel 255
 set timescale to 1
