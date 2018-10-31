@@ -2,14 +2,14 @@
 
 == 锁定
 
-[source console]
+[source, console]
 ....
 prid RefID
 ....
 
 == 创建
 
-[source console]
+[source, console]
 ....
 player.placeatme BaseID 1
 ....
