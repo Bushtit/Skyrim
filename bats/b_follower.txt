@@ -1,0 +1,11 @@
+setrelationshiprank player 4
+addfac 19809 1
+addfac 5a1a4 1
+addfac 5c84d 1
+modav carryweight 999999
+modav health 100000
+modav magicka 100000
+modav stamina 100000
+additem 00000000f 29000
+setav confidence 4
+sifh 1

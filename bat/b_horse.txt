@@ -1,2 +1,0 @@
-player.placeatme 9ccd7 1
-player.placeatme 10bf90 1

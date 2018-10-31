@@ -1,2 +1,0 @@
-playerenchantobject 000139b9 fefbc 91ae5
-playerenchantobject 000139b9 b79fc b79fd

@@ -1,3 +1,0 @@
-removespell d2056
-setactoralpha 100
-resetactoralpha

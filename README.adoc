@@ -1,10 +1,12 @@
-= Skyrim Scripts
+= Skyrim
 
-== How to use?
-
-1. Copy these `txt` files to the game folder.
-2. Launch the game.
-3. Press `~` button.
-4. Click a character.
-5. Enter `bat SCRIPT_NAME`.
-  * For example, `bat player` for `player.txt`.
+[subs="attributes"]
+++++
+<p align="center">
+  <img src="./home.jpg" alt="Skyrim" height="300px">
+  <br/><br/>
+  <img alt="Author" src="https://img.shields.io/badge/author-Elias-blue.svg">
+  <img alt="Platforms" src="https://img.shields.io/badge/platform-All-lightgrey.svg">
+  <br/>
+</p>
+++++

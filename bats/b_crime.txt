@@ -1,0 +1,10 @@
+player.setcrimegold 0
+player.paycrimegold 0 0 00028170
+player.paycrimegold 0 0 000267E3
+player.paycrimegold 0 0 00029DB0
+player.paycrimegold 0 0 0002816D
+player.paycrimegold 0 0 0002816E
+player.paycrimegold 0 0 0002816C
+player.paycrimegold 0 0 0002816B
+player.paycrimegold 0 0 000267EA
+player.paycrimegold 0 0 0002816F

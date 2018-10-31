@@ -1,4 +1,0 @@
-player.removeshout 4c40b
-player.removeshout 10c4e0
-player.removeshout 10c4e1
-player.removeshout 16cf0

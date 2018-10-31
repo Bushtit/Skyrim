@@ -1,3 +1,0 @@
-player.teachword 2f2cc
-player.teachword 2f2cd
-player.teachword 2f2ce
